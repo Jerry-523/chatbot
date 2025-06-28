@@ -4,6 +4,8 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot using the
 
 ## Project Structure
 
+![alt text](<../rag system.avif.jpg>)
+
 ```
 mini-rag-chatbot
 ├── src
