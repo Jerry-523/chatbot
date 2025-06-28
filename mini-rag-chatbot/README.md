@@ -51,3 +51,26 @@ Retrieval-Augmented Generation (RAG) combines the strengths of retrieval-based a
 ## Theme
 
 This chatbot focuses on macroeconomics, providing insights and answers to questions related to economic principles, indicators, and trends. The knowledge base contains curated information to support the chatbot's responses.
+
+## Project Pipeline
+
+1. **Local LLM Model Installation:**  
+   The project can be integrated with models such as LLaMA or Mistral, using `llama.cpp` or Hugging Face Transformers to run the model locally.
+
+2. **Data Collection:**  
+   Gather `.txt`, `.md`, and/or `.pdf` files with relevant content about trading and macroeconomics.
+
+3. **Text Chunking:**  
+   The texts are split into small chunks to facilitate retrieval and processing.
+
+4. **Embeddings Generation:**  
+   Each chunk is converted into a numerical vector using `HuggingFaceEmbeddings`.
+
+5. **Vector Store Creation:**  
+   The embeddings are stored in an efficient vector store, such as FAISS or Chroma, for fast retrieval.
+
+6. **Pipeline Assembly with LangChain:**  
+   LangChain orchestrates the retrieval of relevant chunks and the generation of the final answer by the LLM.
+
+7. **Simple Interface:**  
+   Users can interact with the chatbot via terminal or API (FastAPI), sending questions and receiving answers based on the knowledge base.
