@@ -1,0 +1,63 @@
+The contents of the file /mini-rag-chatbot/mini-rag-chatbot/src/data/knowledge_base.txt are as follows:
+
+Welcome to the world of trading! This knowledge base provides essential insights into trading concepts, strategies, and market dynamics.
+
+1. **What is Trading?**
+   Trading involves buying and selling financial instruments like stocks, bonds, commodities, and currencies with the aim of making a profit. Traders analyze market trends and use various strategies to maximize their returns.
+
+2. **Types of Trading:**
+   - **Day Trading:** Involves buying and selling securities within the same trading day.
+   - **Swing Trading:** Focuses on taking advantage of price swings in the market over a few days to weeks.
+   - **Position Trading:** A long-term strategy where traders hold positions for months or years.
+
+3. **Key Trading Strategies:**
+   - **Technical Analysis:** Analyzing price charts and using indicators to forecast future price movements.
+   - **Fundamental Analysis:** Evaluating a company's financial health and market position to make trading decisions.
+   - **Scalping:** A strategy that involves making numerous trades throughout the day to capture small price movements.
+
+4. **Risk Management:**
+   Effective risk management is crucial in trading. Traders should set stop-loss orders, diversify their portfolios, and only risk a small percentage of their capital on any single trade.
+
+5. **Market Psychology:**
+   Understanding market psychology can help traders make better decisions. Emotions like fear and greed can significantly impact market movements.
+
+6. **Trading Platforms:**
+   Various platforms are available for trading, each offering different tools and features. Popular platforms include MetaTrader, Thinkorswim, and Robinhood.
+
+7. **Regulations:**
+   Trading is subject to regulations that vary by country. It's essential for traders to be aware of the legal requirements and ensure compliance.
+
+This knowledge base serves as a foundational resource for anyone looking to understand the basics of trading and develop their trading skills.
+
+8. **Glossário de Termos Comuns:**
+   - **Bear Market:** Período em que os preços dos ativos estão em queda.
+   - **Bull Market:** Período em que os preços dos ativos estão em alta.
+   - **Stop-Loss:** Ordem para vender um ativo automaticamente ao atingir um preço específico, limitando perdas.
+   - **Take Profit:** Ordem para vender um ativo automaticamente ao atingir um preço de lucro desejado.
+
+9. **Perguntas Frequentes:**
+   - *Qual a diferença entre trader e investidor?*  
+     O trader busca lucros no curto prazo com operações frequentes, enquanto o investidor foca no longo prazo.
+   - *É possível viver de trading?*  
+     Sim, mas exige conhecimento, disciplina e controle de risco rigoroso.
+
+10. **Exemplo Prático de Trade:**
+    Um trader compra ações da empresa X a R$ 10,00 e vende a R$ 12,00 no mesmo dia, obtendo lucro de R$ 2,00 por ação.
+
+11. **Fontes de Informação para Traders:**
+    - Sites de notícias financeiras: Bloomberg, Reuters, InfoMoney.
+    - Fóruns e comunidades: TradingView, Reddit r/Trading.
+
+12. **Principais Indicadores Técnicos:**
+    - Média Móvel (Moving Average)
+    - Índice de Força Relativa (RSI)
+    - MACD
+
+13. **Erros Comuns de Iniciantes:**
+    - Operar sem estratégia definida.
+    - Ignorar o gerenciamento de risco.
+    - Deixar emoções influenciarem decisões.
+
+14. **Livros Recomendados:**
+    - "Axiomas de Zurique" – Max Gunther
+    - "Análise Técnica dos Mercados Financeiros" – John Murphy

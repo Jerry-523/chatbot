@@ -1,0 +1,9 @@
+LangChain
+transformers
+torch
+numpy
+pandas
+scikit-learn
+faiss-cpu
+sentence-transformers
+dotenv
